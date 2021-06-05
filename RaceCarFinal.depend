@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1548053191 source:c:\users\user\desktop\graphis\cb projects\racecarfinal\racecarfinal.c
+	<stdio.h>
+	<stdarg.h>
+	<math.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1548053191 source:c:\users\user\desktop\sem 4\graphis\cb projects\racecarfinal\racecarfinal.c
+	<stdio.h>
+	<stdarg.h>
+	<math.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1548053191 source:c:\users\user\desktop\miu\sem 4\graphis\cb projects\racecarfinal\racecarfinal.c
+	<stdio.h>
+	<stdarg.h>
+	<math.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
